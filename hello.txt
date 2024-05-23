@@ -14,4 +14,4 @@ Hello China! Hello Git!
 Hello China! Hello Git!
 Hello China! Hello Git!
 Hello China! Hello Git!
-Hello China! Hello Git!
+Hello China! Hello Git! "hot-fic test"
